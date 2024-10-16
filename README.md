@@ -20,4 +20,4 @@ This project allows users to check the current weather of any city. The applicat
   The JavaScript file that handles the application logic, including fetching weather data from the API, updating the UI, and displaying error messages.
 
 ## Link
-[https://shady-ghabour.github.io/WeatherChecker/](https://shady-ghabour.github.io/WeatherChecker/)
+[https://shady-ghabour.github.io/weather-checker/](https://shady-ghabour.github.io/weather-checker/)
